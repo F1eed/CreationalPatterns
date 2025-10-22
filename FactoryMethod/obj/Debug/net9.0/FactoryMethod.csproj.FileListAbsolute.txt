@@ -1,0 +1,15 @@
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/bin/Debug/net9.0/FactoryMethod
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/bin/Debug/net9.0/FactoryMethod.deps.json
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/bin/Debug/net9.0/FactoryMethod.runtimeconfig.json
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/bin/Debug/net9.0/FactoryMethod.dll
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/bin/Debug/net9.0/FactoryMethod.pdb
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.AssemblyInfo.cs
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.sourcelink.json
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.dll
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/refint/FactoryMethod.dll
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.pdb
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/FactoryMethod.genruntimeconfig.cache
+/Users/fleed/Desktop/sandbox/CreationalPatterns/FactoryMethod/obj/Debug/net9.0/ref/FactoryMethod.dll
