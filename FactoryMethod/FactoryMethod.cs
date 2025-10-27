@@ -39,14 +39,14 @@ public abstract class NotificationService
         notifier.Send(message);
     }
 
-    public abstract INotifier CreateNotifier();
+    protected abstract INotifier CreateNotifier();
 }
 
 // Классы creator'ов, наследуются от абстрактного creator'a, отвечают за создание того или иного объекта
 
 public class EmailNotificationService : NotificationService
 {
-    public override INotifier CreateNotifier()
+    protected override INotifier CreateNotifier()
     {
         return new EmailNotifier();
     }
@@ -54,7 +54,7 @@ public class EmailNotificationService : NotificationService
 
 public class SmsNotificationService : NotificationService
 {
-    public override INotifier CreateNotifier()
+    protected override INotifier CreateNotifier()
     {
         return new SmsNotifier();
     }
